@@ -1,0 +1,1 @@
+creation script for user, checklist and item tables in Microsoft SQL database
